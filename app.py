@@ -8,7 +8,7 @@ st.set_page_config(page_title="Predicción de Churn", layout="centered")
 # --- REQUISITOS DE LA EVALUACIÓN (PA2) ---
 st.title("📊 Predicción de Abandono de Clientes (Telco Churn)")
 st.markdown("### Desarrollado por: Hector Felipe Ramos Zurita")
-st.markdown("**Cuaderno de Google Colab:** https://colab.research.google.com/drive/1O8Vaf_UeqlfcWgerPqejh4XtM6frVfDT?usp=sharing")
+st.markdown("**Cuaderno de Google Colab:** [https://colab.research.google.com/drive/1O8Vaf_UeqlfcWgerPqejh4XtM6frVfDT?usp=sharing]")
 
 st.write("---")
 st.write("Ingrese los datos del cliente para predecir si abandonará el servicio:")
