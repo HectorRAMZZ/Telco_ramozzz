@@ -228,7 +228,7 @@ with st.sidebar:
     st.header("📋 Información Académica")
     st.markdown("**Estudiante:** Hector Felipe Ramos Zurita")
     st.markdown("**Código ISIL:** `[6816.202610]`")
-    st.markdown("[🔗 Cuaderno de Google Colab (Modo Lector)](Pega_Aquí_Tu_Enlace_Real)")
+    st.markdown("[🔗 Cuaderno de Google Colab (Modo Lector)](https://colab.research.google.com/drive/1O8Vaf_UeqlfcWgerPqejh4XtM6frVfDT?usp=sharing)")
     st.write("---")
     st.caption("Evaluación PA2 - Procesamiento, Modelado y Despliegue Web")
 
