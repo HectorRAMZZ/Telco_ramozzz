@@ -1,7 +1,19 @@
-Necesito que me ayudes a programar el archivo app.py usando Streamlit para mi evaluación. Voy a desplegar un modelo de Random Forest que predice si un cliente de telecomunicaciones va a cancelar su servicio Telco Churn.
+Necesito que me ayudes a programar el archivo app.py usando Streamlit para mi evaluación.
+Voy a desplegar un modelo de Random Forest que predice si un cliente de telecomunicaciones 
+va a cancelar su servicio Telco Churn.
 
-No quiero la típica interfaz básica, quiero que tenga un enfoque más estratégico y de Marketing . Ayúdame a cambiar los nombres técnicos de las variables para que el usuario vea términos de negocio en español (por ejemplo, usar 'Antigüedad del cliente' usando un slider, o 'Monto de Facturación'). 
+No quiero la típica interfaz básica, quiero que tenga un enfoque más estratégico y de Marketing . 
+Ayúdame a cambiar los nombres técnicos de las variables para que el usuario vea términos de 
+negocio en español (por ejemplo, usar 'Antigüedad del cliente' usando un slider, o 'Monto 
+de Facturación'). 
 
-Para la predicción, en lugar de que el modelo solo diga Sí o No, quiero que uses la función predict_proba para sacar el porcentaje exacto de riesgo de fuga y lo muestres visualmente con una barra de progreso. Según ese nivel de riesgo, haz que la página recomiende acciones comerciales, como ofrecer un descuento para retener al cliente si el riesgo supera el 60%.
+Para la predicción, en lugar de que el modelo solo diga Sí o No, quiero que uses la función 
+predict_proba para sacar el porcentaje exacto de riesgo de fuga y lo muestres visualmente
+con una barra de progreso. Según ese nivel de riesgo, haz que la página recomiende acciones 
+comerciales, como ofrecer un descuento para retener al cliente si el riesgo supera el 60%.
 
-Por último, para cumplir con mi rúbrica, agrega un panel lateral que muestre mi nombre: Hector Felipe Ramos Zurita, mi código de alumno ISIL y un texto con el enlace hacia mi cuaderno de Google Colab. Recuerda que el modelo lo voy a tener guardado en la ruta 'modelos/modelo_random_forest.pkl
+Por último, para cumplir con mi rúbrica, agrega un panel lateral que muestre mi nombre: 
+Hector Felipe Ramos Zurita,
+mi código de alumno ISIL y
+un texto con el enlace hacia mi cuaderno de Google Colab. Recuerda que el modelo lo voy a 
+tener guardado en la ruta 'modelos/modelo_random_forest.pkl
