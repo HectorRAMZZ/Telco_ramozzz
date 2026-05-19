@@ -227,7 +227,7 @@ p, .stMarkdown p { color: #8b949e; }
 with st.sidebar:
     st.header("📋 Información Académica")
     st.markdown("**Estudiante:** Hector Felipe Ramos Zurita")
-    st.markdown("**Código ISIL:** `[TU CÓDIGO ISIL AQUÍ]`")
+    st.markdown("**Código ISIL:** `[6816.202610]`")
     st.markdown("[🔗 Cuaderno de Google Colab (Modo Lector)](Pega_Aquí_Tu_Enlace_Real)")
     st.write("---")
     st.caption("Evaluación PA2 - Procesamiento, Modelado y Despliegue Web")
